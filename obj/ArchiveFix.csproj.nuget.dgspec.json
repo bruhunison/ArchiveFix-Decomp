@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "X:\\tools\\ArchiveFix\\New folder\\ArchiveFix.csproj": {}
+    "C:\\Users\\Ethan\\Documents\\GitHub\\ArchiveFix-Decomp\\ArchiveFix.csproj": {}
   },
   "projects": {
-    "X:\\tools\\ArchiveFix\\New folder\\ArchiveFix.csproj": {
+    "C:\\Users\\Ethan\\Documents\\GitHub\\ArchiveFix-Decomp\\ArchiveFix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\tools\\ArchiveFix\\New folder\\ArchiveFix.csproj",
+        "projectUniqueName": "C:\\Users\\Ethan\\Documents\\GitHub\\ArchiveFix-Decomp\\ArchiveFix.csproj",
         "projectName": "ArchiveFix",
-        "projectPath": "X:\\tools\\ArchiveFix\\New folder\\ArchiveFix.csproj",
+        "projectPath": "C:\\Users\\Ethan\\Documents\\GitHub\\ArchiveFix-Decomp\\ArchiveFix.csproj",
         "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
-        "outputPath": "X:\\tools\\ArchiveFix\\New folder\\obj\\",
+        "outputPath": "C:\\Users\\Ethan\\Documents\\GitHub\\ArchiveFix-Decomp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Ethan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

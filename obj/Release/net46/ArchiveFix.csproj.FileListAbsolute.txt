@@ -1,0 +1,12 @@
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\bin\Release\net46\ArchiveFix.exe.config
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\bin\Release\net46\ArchiveFix.exe
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\bin\Release\net46\ArchiveFix.pdb
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\bin\Release\net46\RageLib.dll
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\bin\Release\net46\RageLib.GTA5.dll
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.sourcelink.json
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.csproj.CopyComplete
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.exe
+C:\Users\Ethan\Documents\GitHub\ArchiveFix-Decomp\obj\Release\net46\ArchiveFix.pdb

@@ -40,8 +40,9 @@ namespace ArchiveFix
 				string text = getArg(0).ToLowerInvariant();
 				if (!string.IsNullOrWhiteSpace(text) && File.Exists(args[0]))
 				{
-					Console.WriteLine("Oh, you're one of these people who... drags files to executables. What heresy. Just for you, we manipulated the code to handle that, though!");
-					Console.WriteLine("That's how Affluent Fix makes defense from communism accessible to everyone, even dimwits!");
+					Console.WriteLine("Ah Nigga, don't hate me 'cause I'm beautiful, nigga. maybe if you got rid of that old Yee-Yee ass haircut you got you'd get some bitches on your dick.");
+					Console.WriteLine("oh, better yet maybe Tanisha'll call your-dog ass if she ever stop fucking with that brain surgeon or lawyer she fucking with.");
+					Console.WriteLine("Niggga.");
 					Console.WriteLine();
 					if (File.Exists(Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), "gtav_ng_encrypt_luts.dat")))
 					{
@@ -70,7 +71,6 @@ namespace ArchiveFix
 					Console.ForegroundColor = ConsoleColor.Blue;
 					Console.Write("Affluent Fix™");
 					Console.ForegroundColor = foregroundColor;
-					Console.WriteLine(" - fighting the communist scare, even in the 21st century!");
 				}
 				else
 				{
@@ -246,8 +246,8 @@ namespace ArchiveFix
 				{
 					((IDisposable)val)?.Dispose();
 				}
-				Console.WriteLine($"Done. Modified packfile {packName} to be encrypted using platform key data, screw the OPEN communists! Capitalism and power are the means to victory, not failed Marxism. Our founding fathers were VERY clear on that!");
-				Console.WriteLine($"Do note the encryption is dependent on the file name - if it's not called {Path.GetFileName(packName)} it will not decrypt anywhere, not even your favorite files are safe from that!");
+				Console.WriteLine($"Done. Modified packfile {packName} to be encrypted using platform key data.");
+				Console.WriteLine($"Do note the encryption is dependent on the file name - if it's not called {Path.GetFileName(packName)} it will not decrypt anywhere.");
 			}
 			catch (FileNotFoundException ex2)
 			{
